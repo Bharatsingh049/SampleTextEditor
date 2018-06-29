@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleTextEditor</string>
+    <string name="menu_item">Show Html</string>
+</resources>
